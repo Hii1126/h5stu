@@ -1,0 +1,70 @@
+{
+    "code": 200,
+    "msg": "手机信息",
+    "data": [
+        {
+            "id": 1,
+            "phoneName": "REDMI K90 Pro Max",
+            "remark": "第五代 骁龙®8至尊版 | 超级像素护眼",
+            "price": 0.1,
+            "originalPrice": null,
+            "img_url": "@/imgs/1.webp"
+        },
+        {
+            "id": 2,
+            "phoneName": "REDMI K90",
+            "remark": "骁龙®8至尊版 | Sound by Bose 联合",
+            "price": 2599.2,
+            "originalPrice": null,
+            "img_url": "@/imgs/2.webp"
+        },
+        {
+            "id": 3,
+            "phoneName": "Xiaomi 17 Pro Max",
+            "remark": "徕卡光影大师 移动影像系统 | 徕卡5X",
+            "price": 5999.37,
+            "originalPrice": null,
+            "img_url": "@/imgs/3.webp"
+        },
+        {
+            "id": 4,
+            "phoneName": "Xiaomi 17 Pro",
+            "remark": "徕卡光影大师 移动影像系统 | 徕卡5",
+            "price": 4999.26,
+            "originalPrice": null,
+            "img_url": "@/imgs/4.webp"
+        },
+        {
+            "id": 5,
+            "phoneName": "Xiaomi 17",
+            "remark": "徕卡光学 Summilux 高速镜头 | 光影",
+            "price": 4499,
+            "originalPrice": null,
+            "img_url": "@/imgs/5.webp"
+        },
+        {
+            "id": 6,
+            "phoneName": "REDMI Note 15 Pro+",
+            "remark": "真抗摔真防水长续航",
+            "price": 1899,
+            "originalPrice": 1999,
+            "img_url": "@/imgs/6.webp"
+        },
+        {
+            "id": 7,
+            "phoneName": "REDMI Note 15 Pro",
+            "remark": "真抗摔真防水长续航",
+            "price": 1349,
+            "originalPrice": 1499,
+            "img_url": "@/imgs/7.webp"
+        },
+        {
+            "id": 8,
+            "phoneName": "REDMI Note 15",
+            "remark": "真抗摔 真防水 长续航",
+            "price": 999,
+            "originalPrice": null,
+            "img_url": "@/imgs/8.webp"
+        }
+    ]
+}
